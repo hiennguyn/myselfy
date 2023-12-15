@@ -4,11 +4,6 @@
 
 The "Myselfy" website is a personal HTML and CSS project designed to create a responsive website that provides visitors with information about myself. The website consists of four main pages: Home, About, Resume, and Contact. Each page serves a unique purpose to help visitors get to know me better.
 
-## Technologies Used
-
-- HTML
-- CSS
-
 ## Pages
 
 ### 1. Home
