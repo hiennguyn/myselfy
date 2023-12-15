@@ -26,7 +26,4 @@ The Contact page provides visitors with ways to get in touch with me. This may i
 
 ![Contact page](pages/contact-page.png)
 
-## Responsive Design
-
-The website is designed to be responsive, ensuring a seamless experience for visitors across various devices and screen sizes.
 
