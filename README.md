@@ -15,7 +15,7 @@ The "Myselfy" website is a personal HTML and CSS project designed to create a re
 
 The Home page serves as the landing page for the website. It provides a brief introduction and welcomes visitors to explore the content available on other pages.
 
-![Homepage](images/homepage.jpg)
+![Homepage](pages/homepage.jpg)
 
 ### 2. About
 
@@ -29,7 +29,7 @@ The Resume page serves as an online version of my resume. It includes informatio
 
 The Contact page provides visitors with ways to get in touch with me. This may include a contact form, email address, or links to social media profiles.
 
-![Homepage](images/contact-page.jpg)
+![Contact page](pages/contact-page.jpg)
 
 ## Responsive Design
 
